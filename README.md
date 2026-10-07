@@ -13,12 +13,10 @@
 > The installation procedure is the same as the one described below.
 >
 
-**
-**
-**
-**
-**
-**
+<br>
+<br>
+<br>
+<br>
 
 `pinktrombone~` is a native 64-bit MSP external using the same MIT-licensed,
 standalone DSP as [PinkTrombone for SuperCollider](https://github.com/little-scale/pink-trombone-for-sc).

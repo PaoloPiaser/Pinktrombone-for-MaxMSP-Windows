@@ -1,11 +1,14 @@
 # PinkTrombone for Max/MSP
 
 
-> [!NOTE]
-> This is a Windows port of the Pinktrombone~ object created by
-> [little-scale](https://github.com/little-scale). I take no credit for it:
-> I asked Claude how to compile the object for Windows, and it did the whole
-> port for me (without even being asked).
+## Windows port
+
+> [!IMPORTANT]
+> **This is a Windows port of the Pinktrombone~ object created by
+> [little-scale](https://github.com/little-scale).**
+>
+> I take no credit for it: I asked Claude how to compile the object for
+> Windows, and it did the whole port for me (without even being asked).
 >
 > The installation procedure is the same as the one described below.
 

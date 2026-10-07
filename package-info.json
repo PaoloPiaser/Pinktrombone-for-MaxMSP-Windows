@@ -1,0 +1,22 @@
+{
+    "name": "PinkTromboneMax",
+    "displayname": "PinkTrombone",
+    "version": "0.1.0",
+    "author": "little-scale",
+    "description": "Articulatory Pink Trombone synthesis with float and signal controls",
+    "tags": [
+        "MSP",
+        "synthesis",
+        "voice",
+        "physical modeling"
+    ],
+    "max_version_min": "8.2.0",
+    "os": {
+        "windows": {
+            "min_version": "10",
+            "platform": [
+                "x64"
+            ]
+        }
+    }
+}

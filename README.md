@@ -4,20 +4,21 @@
 ## Windows port
 
 > [!IMPORTANT]
+>
 > ### This is a Windows port of the Pinktrombone~ object created by [little-scale](https://github.com/little-scale)
 >
 > I take no credit for it: I asked Claude how to compile the object for
 > Windows, and it did the whole port for me (without even being asked).
 >
 > The installation procedure is the same as the one described below.
+>
 
-***
-***
-***
-***
-***
-***
-
+**
+**
+**
+**
+**
+**
 
 `pinktrombone~` is a native 64-bit MSP external using the same MIT-licensed,
 standalone DSP as [PinkTrombone for SuperCollider](https://github.com/little-scale/pink-trombone-for-sc).
